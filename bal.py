@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 username = "sheru"
 pin = "1234"
-balance = 5345000.00
+balance = 5345524000.00
 
 root = tk.Tk()
 root.title("My Bank")
