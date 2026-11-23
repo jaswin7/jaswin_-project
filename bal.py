@@ -183,4 +183,4 @@ amount_entry.bind("<Return>", amount_enter)
 user_entry.focus_set()
 
 root.mainloop()
-t
+kalla panni ne arda pATTI
